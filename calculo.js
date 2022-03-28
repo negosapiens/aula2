@@ -33,7 +33,7 @@
 
 //total = (n1+n2+n3+n4)/media;
 //if (total >=7){
-  //  console.log("aprovado" +total);
+ console.log("aprovado" +total);
 // }
 //else if(total>=5){
   //  console.log("recuperação" +total);
